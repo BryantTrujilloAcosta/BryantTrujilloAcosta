@@ -1,5 +1,10 @@
 # ¡Hola! 👋
-
+<a href="https://www.linkedin.com/in/bryant-trujillo-736a23170/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/bryant.trujillo/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> 
+</a>
 Soy Bryant Trujillo , Un Estudiante De Ingenieria En Sistemas Computacionales 
 
 ## Estudios
@@ -23,12 +28,6 @@ Soy Bryant Trujillo , Un Estudiante De Ingenieria En Sistemas Computacionales
 [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BryantTrujilloAcosta&show_icons=true&theme=dark)](https://github.com/BryantTrujilloAcosta)
 
 ## Contacto
-<a href="https://www.linkedin.com/in/bryant-trujillo-736a23170/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/bryant.trujillo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> 
-</a>
 <a href="mailto:bryant_trujillo@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook">
 </a>
