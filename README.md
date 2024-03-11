@@ -1,16 +1,14 @@
-# <img src="recursos/hello.gif" width="50px">¡Hola! Soy Bryant 
-<a href="https://www.linkedin.com/in/bryant-trujillo-736a23170/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/bryant.trujillo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> 
-</a> <br>
-Estudiante De Ingenieria En Sistemas Computacionales 
+# <img src="recursos/hello.gif" width="50px"> ¡Hola! Soy Bryant 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-trujillo-736a23170/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bryant.trujillo/)
 
+### Estudiante de Ingeniería en Sistemas Computacionales <img src="recursos/dev.gif" width="100px" align="right"> 
+<br><br><br>
 ## Estudios
 
-- 🎓 Instituto Tecnológico De Culiacán
+### Instituto Tecnológico De Culiacán <img src="recursos/tec.png" width="100px" align="right">
 
+<br><br>
 ## Aprendiendo
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
