@@ -1,4 +1,4 @@
-# ¡Hola! Soy Bryant 👋
+# <img src="recursos/hello.gif" width="50px">¡Hola! Soy Bryant 
 <a href="https://www.linkedin.com/in/bryant-trujillo-736a23170/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
