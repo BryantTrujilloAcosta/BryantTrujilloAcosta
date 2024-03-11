@@ -1,11 +1,11 @@
-# ¡Hola! 👋
+# ¡Hola! Soy Bryant 👋
 <a href="https://www.linkedin.com/in/bryant-trujillo-736a23170/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/bryant.trujillo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> 
-</a>
-Soy Bryant Trujillo , Un Estudiante De Ingenieria En Sistemas Computacionales 
+</a> <br>
+Estudiante De Ingenieria En Sistemas Computacionales 
 
 ## Estudios
 
