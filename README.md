@@ -2,7 +2,7 @@
 
 Soy Bryant Trujillo Acosta, Un Estudiante De Ingenieria En Sistemas Computacionales 
 
-## Acerca de mí
+## Estudios
 
 - 🎓 Instituto Tecnológico De Culiacán
 
