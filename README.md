@@ -4,9 +4,9 @@
 
 ### Estudiante de Ingeniería en Sistemas Computacionales <img src="recursos/dev.gif" width="100px" align="right"> 
 <br><br><br>
-## Estudios
+## Universidad
 
-### Instituto Tecnológico De Culiacán <img src="recursos/tec.png" width="100px" align="right">
+### 🎓Instituto Tecnológico De Culiacán <img src="recursos/tec.png" width="100px" align="right">
 
 <br><br>
 ## Tecnologías
