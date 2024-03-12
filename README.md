@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 </p>
+
 ## Estadísticas de GitHub
 
 [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BryantTrujilloAcosta&show_icons=true&theme=dark)](https://github.com/BryantTrujilloAcosta)
