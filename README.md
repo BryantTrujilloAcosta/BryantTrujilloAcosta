@@ -25,8 +25,6 @@
 
 ## Estadísticas de GitHub
 
-![Estadistica](https://github-readme-stats.vercel.app/api/top-langs/?BryantTrujilloAcosta={BryantTrujilloAcosta}&theme=blue-green)
-
 [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BryantTrujilloAcosta&show_icons=true&theme=dark)](https://github.com/BryantTrujilloAcosta)
 
 ## Contacto
