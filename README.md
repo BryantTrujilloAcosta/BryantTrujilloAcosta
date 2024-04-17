@@ -22,12 +22,14 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
 
 
 ## Estadísticas de GitHub
 
 [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BryantTrujilloAcosta&show_icons=true&theme=dark)](https://github.com/BryantTrujilloAcosta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryantTrujilloAcosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacto
 <a href="mailto:bryant_trujillo@hotmail.com">
