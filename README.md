@@ -29,10 +29,6 @@
 
 
 
-## Estadísticas de GitHub
-
-[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BryantTrujilloAcosta&show_icons=true&theme=dark)](https://github.com/BryantTrujilloAcosta)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryantTrujilloAcosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacto
 <a href="mailto:bryant_trujillo@hotmail.com">
