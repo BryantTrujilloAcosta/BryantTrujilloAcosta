@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-trujillo-736a23170/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bryant.trujillo/)
 
-### Estudiante de Ingeniería en Sistemas Computacionales <img src="recursos/dev.gif" width="100px" align="right"> 
+### Ingeniero en Sistemas Computacionales <img src="recursos/dev.gif" width="100px" align="right"> 
 <br><br><br>
 ## Universidad
 
